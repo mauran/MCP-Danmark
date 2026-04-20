@@ -8,3 +8,4 @@ Kender du et dansk MCP resource der mangler på listen? Så send et pull request
 | [mcp-danish-energy](https://github.com/robobobby/mcp-danish-energy) | Hent energidata fra Energi Data Service (Energinet) |
 | [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Query 62.764 danske love (fx Databeskyttelsesloven, Straffeloven, Selskabsloven, Forvaltningsloven m.fl.) |
 | [FirmaAPI MCP Server](https://www.npmjs.com/package/firmaapi-mcp-server) | MCP-server til FirmaAPI (npm-pakke) |
+| [nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) | Verify company legitimacy across Norway, Denmark, Finland, and Sweden in seconds. Check bankruptcy status, board members, signing authority, and financial data from official registries, without switching between four government websites. |
