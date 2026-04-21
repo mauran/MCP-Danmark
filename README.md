@@ -1,17 +1,16 @@
 # MCP-Danmark
 Kender du et dansk MCP resource der mangler på listen? Så send et pull request afsted eller opret et issue!
 
-| Navn | Beskrivelse |
-|---|---|
-| [mcp-danish-cvr](https://github.com/robobobby/mcp-danish-cvr) | Søg og slå danske CVR-numre op |
-| [mcp-danish-weather](https://github.com/robobobby/mcp-danish-weather) | Vejrdata for Danmark (DMI HARMONIE 2km-model) |
-| [mcp-danish-energy](https://github.com/robobobby/mcp-danish-energy) | Hent energidata fra Energi Data Service (Energinet) |
-| [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Query 62.764 danske love (fx Databeskyttelsesloven, Straffeloven, Selskabsloven, Forvaltningsloven m.fl.) |
-| [FirmaAPI MCP Server](https://www.npmjs.com/package/firmaapi-mcp-server) | MCP-server til FirmaAPI (npm-pakke) |
-| [Simply.com MCP](https://www.simply.com/dk/docs/mcp/) | Integrer domænetjek direkte i din AI-assistent |
-| [mcp-dst](https://github.com/Brokk-Sindre/mcp-dst) | En MCP server, der eksponerer Danmarks Statistiks Statistikbank API som programmerbare ressourcer, hvilket gør det nemt at integrere med sprogmodeller og moderne AI-applikationer. |
-| [mcp-statistics-denmark](https://github.com/srivatsahg/mcp-statistics-denmark) | A hobbyist project to create an MCP (Model Context Protocol) Server that wraps the Statistics Denmark (Danmarks Statistik) StatBank API, giving AI assistants direct access to Danish statistical data — including taxes, income, population, employment, and more. |
-| [DanmarkStatistikMcpServer](https://github.com/ebuojr/DanmarkStatistikMcpServer) | MCP-server til Danmarks Statistik-data via StatBank API. |
-| [nemlig_cli](https://github.com/eisbaw/nemlig_cli) | Command-line interface for nemlig.com Danish online grocery store. Single-file Python implementation using requests for HTTP and argparse for CLI parsing. |
-| [nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) | Verify company legitimacy across Norway, Denmark, Finland, and Sweden in seconds. Check bankruptcy status, board members, signing authority, and financial data from official registries, without switching between four government websites. |
-
+| Kategori | Navn | Beskrivelse | Scope |
+|---|---|---|---|
+| **Virksomhedsdata** | [mcp-danish-cvr](https://github.com/robobobby/mcp-danish-cvr) | Søg og slå danske CVR-numre op | DK |
+| **Virksomhedsdata** | [FirmaAPI MCP Server](https://www.npmjs.com/package/firmaapi-mcp-server) | MCP-server til FirmaAPI | DK |
+| **Virksomhedsdata** | [nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) | Verificér virksomheder på tværs af DK, NO, FI og SE — konkurs, bestyrelse, tegningsret og økonomi | Nordisk |
+| **Statistik & data** | [mcp-dst](https://github.com/Brokk-Sindre/mcp-dst) | Danmarks Statistiks StatBank API som programmerbare ressourcer | DK |
+| **Statistik & data** | [mcp-statistics-denmark](https://github.com/srivatsahg/mcp-statistics-denmark) | StatBank API — skat, indkomst, befolkning, beskæftigelse m.m. | DK |
+| **Statistik & data** | [DanmarkStatistikMcpServer](https://github.com/ebuojr/DanmarkStatistikMcpServer) | MCP-server til Danmarks Statistik via StatBank API | DK |
+| **Energi & vejr** | [mcp-danish-weather](https://github.com/robobobby/mcp-danish-weather) | Vejrdata fra DMI HARMONIE 2 km-modellen | DK |
+| **Energi & vejr** | [mcp-danish-energy](https://github.com/robobobby/mcp-danish-energy) | Energidata fra Energi Data Service (Energinet) | DK |
+| **Jura & regler** | [Danish-law-mcp](https://github.com/Ansvar-Systems/Danish-law-mcp) | Søg i 62.764 danske love — Databeskyttelsesloven, Straffeloven, Forvaltningsloven m.fl. | DK |
+| **Infrastruktur & web** | [Simply.com MCP](https://www.simply.com/dk/docs/mcp/) | Domænetjek direkte i din AI-assistent | DK |
+| **Infrastruktur & web** | [nemlig_cli](https://github.com/eisbaw/nemlig_cli) | Kommandolinjegrænseflade til nemlig.com's netbutik | DK |
