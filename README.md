@@ -61,5 +61,6 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 | MCP | Beskrivelse |
 |-----|-------------|
 | [Dinero MCP](https://dinero.dk/funktioner/mcp/) | MCP-integration til Dinero |
+| [Numina MCP](https://numina.app/mcp) | Regnskab i Claude, ChatGPT m.fl.: tal, fakturaer, moms og bogføringskladder. Remote-server med OAuth |
 | [Danske Bank Developers](https://developers.danskebank.com/) | Udviklerportal for Danske Banks API’er |
 | [BankMCP](https://bankmcp.dk/) | MCP-platform til bankintegrationer |
