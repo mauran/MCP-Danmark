@@ -55,6 +55,7 @@ Kender du en dansk MCP resource der mangler på listen? Så send et pull request
 |-----|-------------|
 | [tilbudstrolden-mcp](https://github.com/olgasafonova/tilbudstrolden-mcp) | Find tilbud i danske supermarkeder, planlæg ugens aftensmad efter tilbuddene og få en indkøbsliste samlet per butik |
 | [nemlig_cli](https://github.com/eisbaw/nemlig_cli) | CLI til nemlig.com's netbutik |
+| [handle-mcp](https://github.com/NJohansen/handle-mcp) | MCP-server til indkøb hos nemlig.com, BilkaToGo og REMA 1000 |
 
 ## Finans & bank
 
